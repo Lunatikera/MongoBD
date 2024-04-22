@@ -1,0 +1,3 @@
+com\mycompany\mongodbpractica\MongodbPractica.class
+dao\PersonaDAO.class
+modelo\Persona.class
